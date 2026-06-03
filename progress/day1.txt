@@ -1,0 +1,4 @@
+WSL setup
+ubunto setup
+basic c compiler git setup on linux env
+
